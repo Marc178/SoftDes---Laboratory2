@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+<title>IKAW BAHALA Eatery</title>
+<h1 style="text-align: center;">IKAW BAHALA</h1>
+<h2 style="text-align: center;">Eatery</h2>
+<img src="https://static.vecteezy.com/system/resources/previews/000/656/457/original/restaurant-badge-and-logo-good-for-print-vector.jpg"alt="LOGO" width=200 height=200>
+<table border = "1px solid black">
+    <p>&nbsp;</p>
+<tr>
+<nav>
+    <th>
+       <a href="https://www.zomato.com/manila/simple-lang-salcedo-village-makati-city">Link to Overview of the Restuarant</a>
+    </th>
+    <th>
+        <a href="https://www.zomato.com/manila/simple-lang-salcedo-village-makati-city/menu">Link to Menu</a>
+    </th>
+    <th>
+        <a href="https://www.zomato.com/manila/simple-lang-salcedo-village-makati-city/photos">Link to Photos of the Restuarant</a>
+    </th>
+    <th>    
+        <a href="https://www.zomato.com/manila/simple-lang-salcedo-village-makati-city/reviews">Link to Reviews of the Restuarant</a>
+    </th>
+</nav>
+</tr>
+</table>
+<heading>
+<main>
+    <p>&nbsp;</p>
+    <figure>
+        <img class="sisig" style="float:left" src="https://th.bing.com/th/id/OIP.Dhuvfxx4FgM_zbu9WtXjoQHaFx?w=289&h=180&c=7&o=5&pid=1.7" alt="Sisig" style="width:25%">
+        <p>&nbsp;</p>
+        <table border="1px solid black">
+            <tr>
+            <figcaption><th>We are pleased to announce that we have just opened a new Eatery near in your street namely IKAW BAHALA Restuarant. We have different kinds of meals and desserts that will surely suit your taste and we offer a very affordable price. This business is still new in the market. I am attaching a menu for you.I hope you can drop by to our store so that you can try our very tasty meals and desserts. Our store is open until midnight. All informations are in the menu including our number for the free delivery. We are pleased to serve you. Ikaw Bahala Eatery provides good quality service and customers satisfaction. I’m looking forward to meeting you</figcaption>
+            </th></tr></table>
+    <p>&nbsp;</p>
+        <img style="float:left;" src="https://th.bing.com/th/id/OIP.2wHfThK3OP3y33mmGE7hgAHaEi?w=289&h=180&c=7&o=5&pid=1.7" alt="Lechon" style="width:30%">
+        <p>&nbsp;</p>
+        <details>
+            <summary style="text-align:center">Menu</summary>
+            <summary style="text-align:center">Lechon baboy. ₱350</summary>
+            <summary style="text-align:center">Pork Sisig. ₱120</summary>
+            <summary style="text-align:center">Fried Chicken. ₱40</summary>
+            <summary style="text-align:center">Bacon Tocino Omurice. ₱250</summary>
+            <summary style="text-align:center">Sinigang na Crispy Bagnet. ₱395</summary>
+            <summary style="text-align:center">Boom Boom Bulalo. ₱385</summary>
+            <summary style="text-align:center">Batchoy Yan. ₱220</summary>
+       </details>
+    </figure>
+    </main>
+</heading>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<footer style="float:left">
+    By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2022 © Zomato™ Pvt Ltd. All rights reserved.
+    <p>Email Adrress: ikawbahala@gmail.com</p>
+    <p>@ Laboratory Task 2 - Elements, Tags, and Attributes</p>
+   <p>CPE107L Software Design Laboratory</p> 
+</footer>
+</head>
+</html>
+
+
